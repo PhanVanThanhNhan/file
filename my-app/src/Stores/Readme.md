@@ -1,0 +1,1 @@
+viết store( nếu dùng redux) hoặc context của web 
